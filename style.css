@@ -139,6 +139,7 @@ body {
 
 .btn-like {
     background-image: url('Images/Union.svg');
+    display: block !important;
 }
 
 .btn-like:hover {
@@ -147,6 +148,7 @@ body {
 
 .btn-save {
     background-image: url('images/Rectangle11.svg');
+    display: block !important;
 }
 
 .btn-save:hover {
@@ -161,7 +163,7 @@ body {
     right: 27px;
     left: 213px;
     gap: 20.89px;
-    z-index: 2;
+    z-index: 999;
 }
 
 .image-title {
@@ -173,6 +175,7 @@ body {
     z-index: 1;
     display: none;
 }
+
 
 
 
