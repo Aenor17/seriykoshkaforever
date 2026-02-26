@@ -129,7 +129,7 @@ body {
     height: 32.1px;
     border: none;
     background-position: center center;
-    background-color: red;
+    background-color: transparent;
     background-size: contain;
     background-repeat: no-repeat;
     cursor: pointer;
@@ -144,7 +144,6 @@ body {
 
 .btn-like:hover {
     background-image: url('images/Union1.svg');
-    background-color: blue;
 }
 
 .btn-save {
@@ -154,7 +153,6 @@ body {
 
 .btn-save:hover {
     background-image: url('images/Rectangle14.svg');
-    background-color: blue;
 }
 
 .card-actions {
@@ -177,6 +175,7 @@ body {
     z-index: 1;
     display: none;
 }
+
 
 
 
