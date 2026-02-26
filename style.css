@@ -138,7 +138,7 @@ body {
 }
 
 .btn-like {
-    background-image: url('../Images/Union.svg');
+    background-image: url('../images/Union.svg');
     display: block !important;
 }
 
@@ -175,6 +175,7 @@ body {
     z-index: 1;
     display: none;
 }
+
 
 
 
