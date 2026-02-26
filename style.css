@@ -138,19 +138,19 @@ body {
 }
 
 .btn-like {
-    background-image: url('images/Union.svg');
+    background-image: url('./images/Union.svg');
 }
 
 .btn-like:hover {
-    background-image: url('images/Union1.svg');
+    background-image: url('./images/Union1.svg');
 }
 
 .btn-save {
-    background-image: url('images/Rectangle11.svg');
+    background-image: url('./images/Rectangle11.svg');
 }
 
 .btn-save:hover {
-    background-image: url('images/Rectangle14.svg');
+    background-image: url('./images/Rectangle14.svg');
 }
 
 .card-actions {
@@ -173,4 +173,5 @@ body {
     z-index: 1;
     display: none;
 }
+
 
